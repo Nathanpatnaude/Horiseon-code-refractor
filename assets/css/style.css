@@ -26,6 +26,11 @@ h3 {
     text-align: center;
 }
 
+h4 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
 li {
     display: inline-block;
     margin-left: 25px;
@@ -56,12 +61,9 @@ a {
 
 
 .hero {
-    height: 800px;
+    height: 100%;
     width: 100%;
-    margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;
+    margin-bottom: 25px; 
 }
 
 .float-left {
