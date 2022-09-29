@@ -5,6 +5,8 @@
 }
 
 body {
+    font-size: 16px;
+    color: #ffffff;
     background-color: #d9dcd6;
 }
 
@@ -12,11 +14,17 @@ h1 {
     display: inline-block;
     font-size: 48px;
 }
+
+h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
-    color: #ffffff;
+    
 }
 
 .header h1 .seo {
@@ -47,7 +55,7 @@ a {
 }
 
 p {
-    font-size: 16px;
+
 }
 
 .hero {
@@ -88,17 +96,17 @@ p {
 
 .benefit-lead {
     margin-bottom: 32px;
-    color: #ffffff;
+ 
 }
 
 .benefit-brand {
     margin-bottom: 32px;
-    color: #ffffff;
+
 }
 
 .benefit-cost {
     margin-bottom: 32px;
-    color: #ffffff;
+
 }
 
 .benefit-lead h3 {
@@ -134,22 +142,20 @@ p {
     max-width: 150px;
 }
 
-.search-engine-optimization {
+.content-block {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
-    color: #ffffff;
 }
 
-.online-reputation-management {
+/* .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
-    color: #ffffff;
 }
 
 .social-media-marketing {
@@ -158,22 +164,21 @@ p {
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
-    color: #ffffff;
-}
+} */
 
-.search-engine-optimization img {
+.content-block img {
     max-height: 200px;
 }
 
-.online-reputation-management img {
+/* .online-reputation-management img {
     max-height: 200px;
 }
 
 .social-media-marketing img {
     max-height: 200px;
-}
+} */
 
-.search-engine-optimization h2 {
+/* .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -186,7 +191,7 @@ p {
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
-}
+} */
 
 .footer {
     padding: 30px;
